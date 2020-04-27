@@ -1,1 +1,1 @@
-# GitTestingRepository
+# https://www.atlassian.com/git
