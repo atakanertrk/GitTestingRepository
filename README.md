@@ -1,12 +1,19 @@
 
 * tortoise svn (download spesific folder)
 ---
+# Keeping Your Fork Up To Date
+* git remote -v // for see the current version
+* git remote add upstream <original-repository> 
+* git remote -v // check again 
+> or git pull upstream master
+---
 * git clone <repository> 
 * git pull //get latest
 * git push // git push origin <branch>
 * git init // creates a new git repository
 * git remote
 * git status
+* git diff // see the changes you made on file/s
 * git stash // save changes you dont want to commit yet
 * git merge // Merge two branches you were working on. 
 ---
