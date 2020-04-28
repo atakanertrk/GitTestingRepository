@@ -1,4 +1,6 @@
 
+* tortoise svn (download spesific folder)
+---
 * git clone <repository> 
 * git pull //get latest
 * git push // git push origin <branch>
