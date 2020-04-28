@@ -16,6 +16,7 @@
 * git branch --list
 * git remote -v 
 * git checkout <branchname> //for switch branch
+* git checkout -b <branch> //new branch
 ---
 * git push --set-upstream origin <branchname> //if you create new branch and trying to push use this(if the branch is not 
 created yet in github)
