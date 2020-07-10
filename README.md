@@ -22,6 +22,7 @@
 * git add --all
 * git push
 ---
+* git push origin --delete [branch] // delete branch from origin(not local)
 * git branch --list
 * git remote -v 
 * git checkout [branchname] //for switch branch
