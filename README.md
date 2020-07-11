@@ -15,6 +15,7 @@
 * git diff // see the changes you made on file/s
 * git stash // save changes you dont want to commit yet
 * git merge // Merge two branches you were working on. 
+* git merge --abort
 ---
 * git add -p // partial (or patch) Patch mode allows you to stage parts of a changed file, instead of the entire file
 * git add [filename]
