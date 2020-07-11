@@ -7,8 +7,8 @@
 > or git pull upstream master
 ---
 * git clone [repository] 
-* git pull //get latest
-* git push // git push origin [branchname]
+* git pull [remote] [branch] //get latest
+* git push // git push origin [branchname] // origin is name of remote 
 * git init // creates a new git repository
 * git remote
 * git status
